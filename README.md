@@ -1,16 +1,15 @@
-## Hi there 👋
+# 👋 Xin chào, tôi là Võ Trí Đức
 
-<!--
-**triducvo/triducvo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🎓 Giới thiệu
+- 💻 Sinh viên năm nhất, Đại học Công nghệ Thông tin – ĐHQG TP.HCM (UIT)
+- 🌱 Hiện đang học C++, tìm hiểu về python
+- 🎯 Mục tiêu: 
+- 📫 Liên hệ: 2kazuto26@gmail.com
 
-Here are some ideas to get you started:
+## 🛠 Kỹ năng học tập
+- Lập trình: C++, Python
+- Công cụ: Git, VSCode
+- Kỹ năng mềm: Làm việc nhóm, giải quyết vấn đề
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔗 Website cá nhân
+- 🌐 [https://triducvo.github.io](https://triducvo.github.io)
